@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/CardException.java">
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/BaccaratCard.java">
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/CardCollection.java">
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/BaccaratHand.java">
+<error line="5" column="36" severity="warning" message="Name &apos;Bcards&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="5" column="36" severity="warning" message="Variable &apos;Bcards&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="43" column="14" severity="warning" message="Name &apos;Hname&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/Card.java">
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/Shoe.java">
+</file>
+<file name="/Users/rheaprakash/Desktop/CompSci/OOP/cwk2/src/main/java/Baccarat.java">
+<error line="9" column="9" severity="warning" message="Name &apos;Round&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="51" severity="warning" message="Line is longer than 100 characters (found 105)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="56" severity="warning" message="Line is longer than 100 characters (found 105)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="61" severity="warning" message="Line is longer than 100 characters (found 105)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+</checkstyle>
